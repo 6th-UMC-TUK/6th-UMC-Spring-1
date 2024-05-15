@@ -5,162 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb5da5b-9438-41bf-9cba-113caeb65c34" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/StudyApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/ApiResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/BaseCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/BaseErrorCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/ErrorReasonDTO$ErrorReasonDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/ErrorReasonDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/ReasonDTO$ReasonDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/ReasonDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/status/ErrorStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/code/status/SuccessStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/exception/ExceptionAdvice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/exception/GeneralException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/exception/handler/FoodCategoryHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/apiPayload/exception/handler/TempHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/converter/MemberConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/converter/MemberPreferConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/converter/TempConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/FoodCategory$FoodCategoryBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/FoodCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Member$MemberBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Mission$MissionBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Mission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Region$RegionBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Region.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Review$ReviewBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Review.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/ReviewImage$ReviewImageBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/ReviewImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Store$StoreBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Terms$TermsBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/Terms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/common/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/enums/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/enums/MemberStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/enums/MissionStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/enums/SocialType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberAgree$MemberAgreeBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberAgree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberMission$MemberMissionBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberMission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberPrefer$MemberPreferBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/domain/mapping/MemberPrefer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/repository/FoodCategoryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/repository/MemberRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/MemberService/MemberCommandService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/MemberService/MemberCommandServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/MemberService/MemberQueryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/MemberService/MemberQueryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/TempService/TempCommandService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/TempService/TempCommandServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/TempService/TempQueryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/service/TempService/TempQueryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/validation/annotation/ExistCategories.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/validation/validator/CategoriesExistValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/controller/MemberRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/controller/TempRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/MemberRequestDTO$JoinDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/MemberRequestDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/MemberResponseDTO$JoinResultDTO$JoinResultDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/MemberResponseDTO$JoinResultDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/MemberResponseDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempResponse$TempExceptionDTO$TempExceptionDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempResponse$TempExceptionDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempResponse$TempTestDTO$TempTestDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempResponse$TempTestDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/classes/java/main/umc/study/web/dto/TempResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/resources/main/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/ApiResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/BaseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/BaseErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/ErrorReasonDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/ReasonDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/status/ErrorStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/code/status/SuccessStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/exception/ExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/exception/GeneralException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/exception/handler/FoodCategoryHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/apiPayload/exception/handler/TempHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/converter/MemberConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/converter/MemberPreferConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/converter/TempConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/FoodCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/ReviewImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Terms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/enums/SocialType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/mapping/MemberAgree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/mapping/MemberMission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/mapping/MemberPrefer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/repository/FoodCategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/MemberService/MemberCommandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/MemberService/MemberCommandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/MemberService/MemberQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/MemberService/MemberQueryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/TempService/TempCommandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/TempService/TempCommandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/TempService/TempQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/service/TempService/TempQueryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/validation/annotation/ExistCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/validation/validator/CategoriesExistValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/controller/MemberRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/controller/TempRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/dto/MemberRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/dto/MemberResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/dto/TempRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/web/dto/TempResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/umc/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/umc/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/umc/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/umc/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/umc/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/UmcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/StudyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/FoodCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Mission.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/Mission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Region.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/Terms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/common/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/common/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/enums/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/enums/MemberStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/enums/MemberStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/enums/MissionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/domain/enums/MissionStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/enums/SocialType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/mapping/MemberAgree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/mapping/MemberMission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/main/java/com/example/umc/domain/mapping/MemberPrefer.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/study.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/study.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/umc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umc/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/umc/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/umc/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/umc/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umc/src/main/java/umc/study/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/java/umc/study/config/SwaggerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/umc/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umc/src/test/java/com/example/umc/UmcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/umc/src/test/java/umc/study/StudyApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +49,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/umc">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -218,8 +92,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Jimmy/7th-mission에서 되돌리는 중",
+    "git-widget-placeholder": "Jimmy/7th-mission",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "/Users/cycrpto/Desktop/My Brain/1.Projects/UMC/스터디/Project/6th-UMC-Spring-1/umc",
     "node.js.detected.package.eslint": "true",
@@ -227,9 +102,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2850575",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
     "vue.rearranger.settings.migration": "true"
   }
@@ -247,7 +122,21 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.umc">
+  <component name="RunManager" selected="Spring Boot.StudyApplication">
+    <configuration name="StudyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="umc.study.StudyApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="umc.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="umc" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -269,7 +158,9 @@
       <method v="2" />
     </configuration>
     <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="umc.main" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="study.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="umc.study.StudyApplication" />
       <extension name="coverage">
         <pattern>
@@ -290,8 +181,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.umc" />
         <item itemvalue="Spring Boot.StudyApplication" />
+        <item itemvalue="Gradle.umc" />
+        <item itemvalue="애플리케이션.StudyApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -306,6 +198,10 @@
       <workItem from="1715153906826" duration="342000" />
       <workItem from="1715745452078" duration="9169000" />
       <workItem from="1715761459266" duration="272000" />
+      <workItem from="1715761734162" duration="285000" />
+      <workItem from="1715762021660" duration="14000" />
+      <workItem from="1715762054895" duration="434000" />
+      <workItem from="1715762934704" duration="2640000" />
     </task>
     <servers />
   </component>
