@@ -27,6 +27,13 @@ public class MemberMission extends BaseEntity {
 
     private String missionSpec;
 
+    // 성공여부
+    private Boolean status=Boolean.FALSE;
+
+    public void challengeSuccess() {
+        this.status = true;
+    }
+
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "member_id")
     private Member member;
